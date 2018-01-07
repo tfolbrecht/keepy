@@ -1,0 +1,123 @@
+# Exported from 3D Builder
+
+newmtl EABB81FF
+Kd 0.917647 0.733333 0.509804
+
+newmtl 5884D0FF
+Kd 0.345098 0.517647 0.815686
+
+newmtl F1F777FF
+Kd 0.945098 0.968628 0.466667
+
+newmtl FFFFFFFF
+Kd 1.000000 1.000000 1.000000
+
+newmtl 97E4B1FF
+Kd 0.592157 0.894118 0.694118
+
+newmtl 1E1E1EFF
+Kd 0.117647 0.117647 0.117647
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\cheekmarks.png
+
+newmtl Red
+Kd 0.925490 0.105882 0.137255
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\eyebrow.png
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\cheektexture.png
+
+newmtl F98E79FF
+Kd 0.976471 0.556863 0.474510
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\wingetexture.png
+
+newmtl D0ED6FFF
+Kd 0.815686 0.929412 0.435294
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\headfeathertexture.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\TEXTURE1.png
+
+newmtl DCBBC1FF
+Kd 0.866667 0.737255 0.756863
+
+newmtl White_5
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\texture2.png
+
+newmtl White_6
+Kd 0.878431 0.878431 0.878431
+
+newmtl EABB81FF
+Kd 0.917647 0.733333 0.509804
+
+newmtl 5884D0FF
+Kd 0.345098 0.517647 0.815686
+
+newmtl F1F777FF
+Kd 0.945098 0.968628 0.466667
+
+newmtl FFFFFFFF
+Kd 1.000000 1.000000 1.000000
+
+newmtl 97E4B1FF
+Kd 0.592157 0.894118 0.694118
+
+newmtl 1E1E1EFF
+Kd 0.117647 0.117647 0.117647
+
+newmtl White
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\cheekmarks.png
+
+newmtl White_0
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\eyebrow.png
+
+newmtl Red
+Kd 0.925490 0.105882 0.137255
+
+newmtl White_1
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\cheektexture.png
+
+newmtl F98E79FF
+Kd 0.976471 0.556863 0.474510
+
+newmtl White_2
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\wingetexture.png
+
+newmtl D0ED6FFF
+Kd 0.815686 0.929412 0.435294
+
+newmtl White_3
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\headfeathertexture.png
+
+newmtl White_4
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\TEXTURE1.png
+
+newmtl DCBBC1FF
+Kd 0.866667 0.737255 0.756863
+
+newmtl White_5
+Kd 1.000000 1.000000 1.000000
+map_Kd textures\texture2.png
+
+newmtl White_6
+Kd 0.878431 0.878431 0.878431
